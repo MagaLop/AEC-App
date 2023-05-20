@@ -86,3 +86,28 @@ _____
 |--------|--------------|
 | 1      | Seguridad de datos y privacidad |
 
+______
+
+
+### Chile, tecnología y educación.
+
+En Chile, la realidad en cuanto al uso de tecnología y la educación presenta tanto desafíos como oportunidades para el desarrollo de la aplicación AEC App. El país ha experimentado un crecimiento significativo en el uso de aplicaciones móviles y el acceso a Internet, lo que crea un entorno propicio para la adopción de soluciones tecnológicas en el ámbito educativo.
+
+En el contexto educativo chileno, se enfrentan desafíos relacionados con la mejora del acceso a la tecnología, el desarrollo de habilidades digitales y el fomento del pensamiento crítico. También se busca trabajar en la formación docente, promover un uso responsable de la tecnología y fomentar la innovación pedagógica. La pandemia del COVID-19 ha evidenciado las brechas de conectividad y equipamiento, destacando la necesidad de adaptar las metodologías de enseñanza y apoyar el bienestar socioemocional de la comunidad educativa en un contexto digitalizado.
+
+En respuesta a estas necesidades, el Ministerio de Educación de Chile ha promovido el uso de tecnología en los establecimientos educativos. Ofrece recursos como plataformas virtuales, contenidos digitales, cursos en línea y asesoría técnica para apoyar los aprendizajes y el desarrollo de habilidades digitales en los estudiantes.
+
+Teniendo en cuenta este contexto, la AEC App se presenta como una oportunidad para complementar el aprendizaje del idioma inglés en Chile. La aplicación, desarrollada por el Atacama English Center, brinda un soporte amplio y especializado a los usuarios, centrándose en fortalecer las cuatro habilidades del idioma inglés a través de recursos como vocabulario contextualizado, vídeos subtitulados y prácticas interactivas de pronunciación. Además, su sistema de recompensas basado en la acumulación de puntos proporciona una evaluación eficaz del progreso de los usuarios.
+
+Para el desarrollo de la aplicación, es importante considerar las necesidades y preferencias de los usuarios chilenos, así como adaptar el contenido a la realidad y cultura local. También es relevante tener en cuenta las políticas educativas y los recursos disponibles en Chile, como los proporcionados por el Ministerio de Educación y otras instituciones educativas y tecnológicas del país.
+
+#### Referencias:
+[1. Ministerio de Educación de Chile.](https://www.educacion2020.cl/noticias/estos-son-5-desafios-de-la-educacion-chilena-en-la-era-digital/)
+
+[2. Efectos de la pandemia del COVID-19 en la educación en Chile.](https://educacion.uc.cl/noticias/que-aprendimos-de-la-pandemia-educacion-y-tecnologia-en-tiempos-de-crisis/)
+
+[3. Recursos del Ministerio de Educación de Chile para el uso de tecnología en la educación.](https://escolar.mineduc.cl/tecnologia/)
+
+_________
+
+
