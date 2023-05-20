@@ -1,3 +1,7 @@
+
+![logo rrss](https://github.com/MagaLop/AEC-App/assets/122646918/0bca5b3c-7ee9-46ed-b7b9-f8e1b6b7e466)
+
+
 ## AEC-App
 __________
 
