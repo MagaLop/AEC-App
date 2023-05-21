@@ -112,3 +112,22 @@ _________
 
 ![Mesa de trabajo 7](https://github.com/MagaLop/AEC-App/assets/122646918/7abb0000-199a-4d17-b697-3ec3e42e2dee)
 
+________
+
+#### Se desarrollará un MVP que incluya las siguientes características esenciales:
+
+1. Mostrar un Splash Screen al iniciar la aplicación
+
+2. Registro y perfil del usuario: Permitir que los usuarios se registren en la aplicación y creen su perfil con información básica. (Login)
+
+3. Evaluación inicial del nivel de inglés: Implementar un cuestionario breve para que los usuarios evalúen su nivel de habilidad en el idioma. (Formulario)
+
+4. Interfaz de usuario básica: Desarrollar una interfaz simple pero funcional que permita a los usuarios navegar por las lecciones, realizar las actividades y guardarlas.
+
+5. Interfaz de usuario básica 2: Desarrollar una interfaz simple pero funcional que permita a los usuarios utilizar la agenda.
+
+6. Averiguar cómo implementar la base de datos y hacerlo.
+
+** Para la próxima clase se desarrollara el punto 1, 2 y 3 **
+
+
