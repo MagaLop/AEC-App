@@ -114,7 +114,7 @@ _________
 
 ________
 
-#### Se desarrollará un MVP que incluya las siguientes características esenciales:
+### Se desarrollará un MVP que incluya las siguientes características esenciales:
 
 1. Mostrar un Splash Screen al iniciar la aplicación
 
@@ -124,10 +124,12 @@ ________
 
 4. Interfaz de usuario básica: Desarrollar una interfaz simple pero funcional que permita a los usuarios navegar por las lecciones, realizar las actividades y guardarlas.
 
+### Objetivos futuros.
+
 5. Interfaz de usuario básica 2: Desarrollar una interfaz simple pero funcional que permita a los usuarios utilizar la agenda.
 
 6. Averiguar cómo implementar la base de datos y hacerlo.
 
-** Para la próxima clase se desarrollara el punto 1, 2 y 3 **
+
 
 
