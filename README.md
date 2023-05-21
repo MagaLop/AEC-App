@@ -110,4 +110,5 @@ Para el desarrollo de la aplicación, es importante considerar las necesidades y
 
 _________
 
+![Mesa de trabajo 7](https://github.com/MagaLop/AEC-App/assets/122646918/7abb0000-199a-4d17-b697-3ec3e42e2dee)
 
